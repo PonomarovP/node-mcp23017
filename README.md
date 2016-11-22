@@ -7,6 +7,8 @@ It currently only supports reading from and writing to the chip
 
 The module tries to mimic the Arduino-Syntax
 
+NOTE: This is a complete copy, but with updated package.json
+
 ##Installation
 
 install via npm. just type the following in the terminal/console
